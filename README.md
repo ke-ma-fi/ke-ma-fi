@@ -69,7 +69,14 @@ My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs w
     * *The Job:* My role shifted from *writing* code to **Reviewing & Refactoring**. I ensure the project structure doesn't spiral out of control, turning raw AI output into maintainable, clean software.
 
 ---
+
 ## 🏗️ Featured Projects & Engineering
+
+### 🎟️ Gutscheineland (Current Fullstack Project)
+Building a SaaS-style voucher platform.
+* **Tech:** Next.js, PayloadCMS, PostgreSQL, Stripe Payments.
+* **Ops:** Deployed via **Coolify** on Hetzner, using S3 for asset storage.
+* **Workflow:** Full CI/CD implementation via GitHub Actions.
 
 ### 🥩 The "Wild Ride": Enterprise Self-Hosting
 I architected a complete on-premise solution to modernize our business operations.
@@ -91,12 +98,6 @@ I architected a complete on-premise solution to modernize our business operation
 * **The Problem:** Manually updating menu screens was slow and error-prone (took me approx. 2h a week).
 * **The Solution:** A Python pipeline that extracts data from the central planning Excel to JSON, renders it into an HTML template, zips the package, and pushes it via the **PiSignage API** to POS displays.
 * **Result:** Zero manual intervention required for daily updates.
-
-### 🎟️ Gutscheineland (Current Fullstack Project)
-Building a SaaS-style voucher platform.
-* **Tech:** Next.js, PayloadCMS, PostgreSQL, Stripe Payments.
-* **Ops:** Deployed via **Coolify** on Hetzner, using S3 for asset storage.
-* **Workflow:** Full CI/CD implementation via GitHub Actions.
 
 ---
 
