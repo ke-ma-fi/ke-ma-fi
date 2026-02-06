@@ -1,4 +1,4 @@
-# Hi there, I'm Kevin - a Tech Enthusiast with a Business Background! 👋
+# Hi there, I'm Kevin - a Tech Enthusiast from Germany with a Business Background! 👋
 
 > **"Preserving tradition, driving technology."**
 
