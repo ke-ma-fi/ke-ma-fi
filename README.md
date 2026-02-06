@@ -2,7 +2,7 @@
 
 > **"Preserving tradition, driving technology."**
 
-I am a **Food Management Graduate (B.A.)** who discovered a passion for code while digitizing a family business. What started as a simple Python script during a summer vacation turned into managing a full on-premise production environment and developing full-stack applications.
+I am a **Food Management Graduate (B.A.)** who discovered a passion for code while digitizing a family business. What started as a simple online course during a summer vacation turned into managing a full on-premise production environment and developing full-stack applications.
 
 ---
 
@@ -48,6 +48,25 @@ My toolbox combines modern full-stack development with deep system administratio
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+### 🧠 IDE & AI Workflow
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+
+> **"AI is my co-pilot, not my autopilot."**
+
+My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs when I need deep introspection. I adopt AI tools—**GitHub Copilot**, **Gemini CLI**, and **AI-Enhanced VS Code Forks**—to accelerate the "boring" parts of development.
+
+#### 🤖 My Philosophy
+* **Documentation Killer:** I use AI to skip long documentation lookups and syntax checks.
+* **Logic is Human:** For safety and security, I design the logic and control flow myself. I use AI to implement the specific lines, but the "blueprint" remains in my head.
+* **The "Gutscheineland" Lesson:** This was my first project driven heavily by **AI Agents**.
+    * *The Win:* Incredible speed to MVP. (The strongly typed, configuration-heavy nature of Payload + Next.js is awesome for AI, by the way!)
+    * *The Trade-off:* AI tends to generate a "salad bowl" of code structures.
+    * *The Job:* My role shifted from *writing* code to **Reviewing & Refactoring**. I ensure the project structure doesn't spiral out of control, turning raw AI output into maintainable, clean software.
 
 ---
 ## 🏗️ Featured Projects & Engineering
