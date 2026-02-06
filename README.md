@@ -73,23 +73,23 @@ My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs w
 
 ### 🥩 The "Wild Ride": Enterprise Self-Hosting
 I architected a complete on-premise solution to modernize our business operations.
-* **Infrastructure:** Run on a dedicated Server via **Proxmox** (LXC Containers + VMs) + NAS.
-* **Networking Security:** **Tailscale** serves as the backbone—used not just as a VPN, but as a DNS orchestrator (with Pi-hole sidecars) to ship tools internally via FQDNs. I use Tailscale Funnels to securely share services (like Nextcloud) without dangerous port forwarding.
+* **Infrastructure:** Run on a powerful Mini-PC via **Proxmox** (LXC Containers + VMs) + NAS.
+* **Networking Security:** **Tailscale** serves as the backbone—used not just as a VPN, but as a DNS orchestrator (with Pi-hole sidecar) to ship tools internally via FQDNs. I use Tailscale Funnels to securely share services (like Nextcloud) without dangerous port forwarding and absolutely love the MagicDNS combined with the "tailscale serve" reverse proxy and the brand new "advertise service" features.
 * **Backup Strategy:** Automated backups via Proxmox Backup Server to NAS ➔ Snapshotted via **Kopia** to a remote location (3-2-1 strategy).
 * **The Paperless Office:** Deployed **Paperless-ngx** managing 15,000+ documents.
-    * *Custom Python Scripts:* Developed tools to scan directories for missing invoice numbers, generate ASN barcodes, and export CSVs formatted POS-Data specifically for DATEV accounting import.
+    * *Custom Python Scripts:* Developed tools to scan directories for missing invoice numbers, generate ASN barcodes, and export CSVs with formatted POS data specifically for DATEV accounting import.
 * **Open Source Contribution:** 🌟 I don't just use tools; I improve them. I contributed the **emergency recovery mode** to [Kopia](https://github.com/kopia/kopia) ([View PR](https://github.com/kopia/kopia/pull/5077)) to allow recovery when repository storage is fully exhausted.
 
 ### 💬 Omnichannel Communication Hub
 * **Stack:** Self-hosted **Chatwoot** (Hetzner), Nginx Reverse Proxy, Postfix (Mail Relaying).
 * **Automation:** Integrated **n8n** via webhooks/API to manage WhatsApp newsletters.
-    * *Logic:* Handles subscribes/unsubscribes via contact tags and sends automated welcome coupons.
+    * *Logic:* Handles subscribes/unsubscribes via contact tags and sends automated welcome coupons with comprehensive logging for compliance.
     * *Scaling:* Implemented **Redis** for rate limiting to ensure stability.
-    * *AI:* Currently orchestrating an AI Agent to handle Level 1 customer inquiries.
+    * *AI:* Currently orchestrating an AI Agent to handle Level 1 customer inquiries. (WIP)
 
 ### 🍽️ Digital Menu Automation (CS50x Final Project)
-* **The Problem:** Manually updating menu screens was slow and error-prone.
-* **The Solution:** A Python pipeline that extracts data from the central planning Excel, renders it into an HTML template, zips the package, and pushes it via the **PiSignage API** to POS displays.
+* **The Problem:** Manually updating menu screens was slow and error-prone (took me approx. 2h a week).
+* **The Solution:** A Python pipeline that extracts data from the central planning Excel to JSON, renders it into an HTML template, zips the package, and pushes it via the **PiSignage API** to POS displays.
 * **Result:** Zero manual intervention required for daily updates.
 
 ### 🎟️ Gutscheineland (Current Fullstack Project)
@@ -109,7 +109,7 @@ Building a SaaS-style voucher platform.
 * **Computer Science:**
     * **CS50x & CS50w:** Completed Harvard's introduction to CS and Web Programming.
     * **FernUniversität in Hagen:** Guest auditor for **Go (Imperative Programming)** and **Java (Algorithms & Data Structures)** to understand the theoretical underpinnings (Binary Trees, Big O, etc.).
-* **Teaching:** Private tutor for Math, Physics, Chemistry & Economics (500+ students).
+* **Teaching:** Private tutor for Math, Physics, Chemistry & Economics.
 
 ---
 
@@ -117,7 +117,7 @@ Building a SaaS-style voucher platform.
 
 > **"Impossible isn't in my vocabulary."**
 
-The only variables are effort and cost. I believe the best solutions emerge when traditional values meet an innovative mindset. I've learned that with a computer, I can build anything—now I'm ready to build it at scale.
+The only variables are effort and cost. I believe the best solutions emerge when traditional values meet an innovative mindset. I've learned that with a computer, I can build anything—and that's what really gets me addicted to coding.
 
 **Let's connect and create something new!** 💡
 <!--
