@@ -36,6 +36,7 @@ My toolbox combines modern full-stack development with deep system administratio
 ![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=flat&logo=coolify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat&logo=hetzner&logoColor=white)
+![Kopia](https://img.shields.io/badge/Kopia-2196F3?style=flat&logo=archive&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-181818?style=flat&logo=tailscale&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -58,6 +59,7 @@ I architected a complete on-premise solution to modernize our business operation
 * **Backup Strategy:** Automated backups via Proxmox Backup Server to NAS ➔ Snapshotted via **Kopia** to a remote location (3-2-1 strategy).
 * **The Paperless Office:** Deployed **Paperless-ngx** managing 15,000+ documents.
     * *Custom Python Scripts:* Developed tools to scan directories for missing invoice numbers, generate ASN barcodes, and export CSVs formatted POS-Data specifically for DATEV accounting import.
+* **Open Source Contribution:** 🌟 I don't just use tools; I improve them. I contributed the **emergency recovery mode** to [Kopia](https://github.com/kopia/kopia) ([View PR](https://github.com/kopia/kopia/pull/5077)) to allow recovery when repository storage is fully exhausted.
 
 ### 💬 Omnichannel Communication Hub
 * **Stack:** Self-hosted **Chatwoot** (Hetzner), Nginx Reverse Proxy, Postfix (Mail Relaying).
