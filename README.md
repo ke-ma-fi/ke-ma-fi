@@ -2,17 +2,17 @@
 
 > **"Preserving tradition, driving technology."**
 
-I am a **Food Management Graduate (B.A.)** who discovered a passion for code while digitizing a family business. What started as a simple online course during a summer vacation turned into managing a full on-premise production environment and developing full-stack applications.
+I am a **Food Management Graduate (B.A.)** who discovered a passion for coding while digitizing a family business. What started as a simple online course during a summer vacation turned into managing a full on-premises environment and developing full-stack applications.
 
 ---
 
 ## 🚀 The "Why": My Next Challenge
 
-I have spent the last few years engineering enterprise-grade solutions for our family butcher shop (~20 employees). I've built everything from **AI-orchestrated support bots** to **automated digital signage** and **paperless office systems**.
+I have spent the last few years engineering solutions for our family butcher shop (~20 employees). I've built everything from **AI-orchestrated support bots** to **automated digital signage** and **paperless office systems**.
 
 **So, why look for something new?**
-I love building complex automations (like connecting Chatwoot with n8n and AI agents). However, in a small enterprise, these powerful tools are triggered maybe 3 times a day.
-👉 **I am looking for scale.** I want to build systems that run 3,000 times a day—or more. I want to apply my skills in an environment where efficiency and automation create massive, measurable impact beyond the boundaries of a local business.
+I love building complex automations (like connecting Chatwoot with n8n and AI agents). However, in a small enterprise, these powerful tools are triggered maybe 3 times a day and I just feel like the projects I thrive on are bigger than what fits our company. I'm at a point where I've automated about 80% of my original office work, and I feel the effort of building additional tools doesn't create that much more impact anymore.
+👉 **I am looking for meaning and a new challenge.** I want to build systems that run 3,000 times a day—or more. I want to apply my skills in an environment where efficiency and good code create massive, measurable impact.
 
 ---
 
@@ -21,6 +21,7 @@ I love building complex automations (like connecting Chatwoot with n8n and AI ag
 My toolbox combines modern full-stack development with deep system administration and DevOps knowledge.
 
 ### 💻 Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
@@ -32,6 +33,7 @@ My toolbox combines modern full-stack development with deep system administratio
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 ### ⚙️ DevOps, Infrastructure & Self-Hosting
+
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
 ![Coolify](https://img.shields.io/badge/Coolify-6B21A8?style=flat&logo=coolify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -43,6 +45,7 @@ My toolbox combines modern full-stack development with deep system administratio
 ![CI/CD](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### 🗄️ Database, Storage & Tools
+
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=minio&logoColor=white)
@@ -58,46 +61,53 @@ My toolbox combines modern full-stack development with deep system administratio
 
 > **"AI is my co-pilot, not my autopilot."**
 
-My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs when I need deep introspection. I adopt AI tools—**GitHub Copilot**, **Gemini CLI**, and **AI-Enhanced VS Code Forks**—to accelerate the "boring" parts of development.
+My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs when I need deep introspection. I love using AI tools—**GitHub Copilot**, **Gemini CLI**, and **AI-Enhanced VS Code Forks**—to accelerate parts of development and enhance learning.
 
-#### 🤖 My Philosophy
-* **Documentation Killer:** I use AI to skip long documentation lookups and syntax checks.
-* **Logic is Human:** For safety and security, I design the logic and control flow myself. I use AI to implement the specific lines, but the "blueprint" remains in my head.
-* **The "Gutscheineland" Lesson:** This was my first project driven heavily by **AI Agents**.
-    * *The Win:* Incredible speed to MVP. (The strongly typed, configuration-heavy nature of Payload + Next.js is awesome for AI, by the way!)
-    * *The Trade-off:* AI tends to generate a "salad bowl" of code structures.
-    * *The Job:* My role shifted from *writing* code to **Reviewing & Refactoring**. I ensure the project structure doesn't spiral out of control, turning raw AI output into maintainable, clean software.
+#### 🤖 My AI - Philosophy
+
+- **Documentation Killer:** I use AI to skip long documentation lookups and syntax checks.
+- **Logic is Human:** For safety and security, I design the logic and control flow myself. I use AI to implement the specific lines, but the "blueprint" remains in my head.
+- **The "Gutscheineland" Lesson:** This was my first project driven heavily by **AI Agents**.
+  - _The Win:_ Incredible speed to MVP. (The strongly typed, configuration-heavy nature of Payload + Next.js is awesome for AI, by the way!)
+  - _The Trade-off:_ AI tends to generate a "salad bowl" of code structures.
+  - _The Job:_ My role shifted from _writing_ code to **Reviewing & Refactoring**. I ensure the project structure doesn't spiral out of control, turning raw AI output into maintainable, clean software.
 
 ---
 
 ## 🏗️ Featured Projects & Engineering
 
-### 🎟️ Gutscheineland (Current Fullstack Project)
+### 🎟️ Gutscheineland (Current Fullstack Project) ([View Project](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/projects/gutscheineland))
+
 Building a SaaS-style voucher platform.
-* **Tech:** Next.js, PayloadCMS, PostgreSQL, Stripe Payments.
-* **Ops:** Deployed via **Coolify** on Hetzner, using S3 for asset storage.
-* **Workflow:** Full CI/CD implementation via GitHub Actions.
+
+- **Tech:** Next.js, PayloadCMS, PostgreSQL, Stripe Payments.
+- **Ops:** Deployed via **Coolify** on Hetzner, using S3 for asset storage.
+- **Workflow:** Full CI/CD implementation via GitHub Actions.
 
 ### 🥩 The "Wild Ride": Enterprise Self-Hosting
-I architected a complete on-premise solution to modernize our business operations.
-* **Infrastructure:** Run on a powerful Mini-PC via **Proxmox** (LXC Containers + VMs) + NAS.
-* **Networking Security:** **Tailscale** serves as the backbone—used not just as a VPN, but as a DNS orchestrator (with Pi-hole sidecar) to ship tools internally via FQDNs. I use Tailscale Funnels to securely share services (like Nextcloud) without dangerous port forwarding and absolutely love the MagicDNS combined with the "tailscale serve" reverse proxy and the brand new "advertise service" features.
-* **Backup Strategy:** Automated backups via Proxmox Backup Server to NAS ➔ Snapshotted via **Kopia** to a remote location (3-2-1 strategy).
-* **The Paperless Office:** Deployed **Paperless-ngx** managing 15,000+ documents.
-    * *Custom Python Scripts:* Developed tools to scan directories for missing invoice numbers, generate ASN barcodes, and export CSVs with formatted POS data specifically for DATEV accounting import.
-* **Open Source Contribution:** 🌟 I don't just use tools; I improve them. I contributed the **emergency recovery mode** to [Kopia](https://github.com/kopia/kopia) ([View PR](https://github.com/kopia/kopia/pull/5077)) to allow recovery when repository storage is fully exhausted.
+
+I architected a complete on-premises solution to modernize our business operations.
+
+- **Infrastructure:** Run on a powerful Mini-PC via **Proxmox** (LXC Containers + VMs) + NAS.
+- **Networking Security:** **Tailscale** serves as the backbone—used not just as a VPN, but as a DNS orchestrator (with Pi-hole sidecar) to ship tools internally via FQDNs. I use Tailscale Funnels to securely share services (like Nextcloud) without dangerous port forwarding and absolutely love the MagicDNS combined with the "tailscale serve" reverse proxy and the brand new "advertise service" features.
+- **Backup Strategy:** Automated backups via Proxmox Backup Server to NAS ➔ Snapshotted via **Kopia** to a remote location (3-2-1 strategy).
+- **The Paperless Office:** Deployed **Paperless-ngx** managing 15,000+ documents.
+  - _Custom Python Scripts:_ Developed tools to scan directories for missing invoice numbers, generate ASN barcodes, and export CSVs with formatted POS data specifically for DATEV accounting import. ([View Scripts](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/scripts_and_automation))
+- **Open Source Contribution:** 🌟 I don't just use tools; I improve them. I contributed the **emergency recovery mode** to [Kopia](https://github.com/kopia/kopia) ([View PR](https://github.com/kopia/kopia/pull/5077)) to allow recovery when repository storage is fully exhausted.
 
 ### 💬 Omnichannel Communication Hub
-* **Stack:** Self-hosted **Chatwoot** (Hetzner), Nginx Reverse Proxy, Postfix (Mail Relaying).
-* **Automation:** Integrated **n8n** via webhooks/API to manage WhatsApp newsletters.
-    * *Logic:* Handles subscribes/unsubscribes via contact tags and sends automated welcome coupons with comprehensive logging for compliance.
-    * *Scaling:* Implemented **Redis** for rate limiting to ensure stability.
-    * *AI:* Currently orchestrating an AI Agent to handle Level 1 customer inquiries. (WIP)
 
-### 🍽️ Digital Menu Automation (CS50x Final Project)
-* **The Problem:** Manually updating menu screens was slow and error-prone (took me approx. 2h a week).
-* **The Solution:** A Python pipeline that extracts data from the central planning Excel to JSON, renders it into an HTML template, zips the package, and pushes it via the **PiSignage API** to POS displays.
-* **Result:** Zero manual intervention required for daily updates.
+- **Stack:** Self-hosted **Chatwoot** (Hetzner), Nginx Reverse Proxy, Postfix (Mail Relaying).
+- **Automation:** Integrated **n8n** via webhooks/API to manage WhatsApp newsletters.
+  - _Logic:_ Handles subscribes/unsubscribes via contact tags and sends automated welcome coupons with comprehensive logging for compliance.
+  - _Scaling:_ Implemented **Redis** for rate limiting to ensure stability.
+  - _AI:_ Currently orchestrating an AI Agent to handle Level 1 customer inquiries. (WIP)
+
+### 🍽️ Digital Menu Automation (CS50x Final Project) ([View Project](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/projects/pisignage))
+
+- **The Problem:** Manually updating menu screens was slow and error-prone (took me approx. 2h a week).
+- **The Solution:** A Python pipeline that extracts data from the central planning Excel to JSON, renders it into an HTML template, zips the package, and pushes it via the **PiSignage API** to POS displays.
+- **Result:** Zero manual intervention required for daily updates.
 
 ---
 
@@ -105,12 +115,12 @@ I architected a complete on-premise solution to modernize our business operation
 
 > **"I can balance a binary tree, but I prefer building real-world software."**
 
-* **Lecturer:** DHBW Heilbronn (Food Production & Sales) | Member of the Quality Circle for Food Management.
-* **Academic:** B.A. Food Management (ECTS classification: A).
-* **Computer Science:**
-    * **CS50x & CS50w:** Completed Harvard's introduction to CS and Web Programming.
-    * **FernUniversität in Hagen:** Guest auditor for **Go (Imperative Programming)** and **Java (Algorithms & Data Structures)** to understand the theoretical underpinnings (Binary Trees, Big O, etc.).
-* **Teaching:** Private tutor for Math, Physics, Chemistry & Economics.
+- **Lecturer:** DHBW Heilbronn (Food Production & Sales) | Member of the Quality Circle for Food Management.
+- **Academic:** B.A. Food Management (ECTS classification: A).
+- **Computer Science:**
+  - **CS50x & CS50w:** Completed Harvard's introduction to CS and Web Programming.
+  - **FernUniversität in Hagen:** Guest auditor for **Go (Imperative Programming)** and **Java (Algorithms & Data Structures)** to understand the theoretical underpinnings (Binary Trees, Big O, etc.).
+- **Teaching:** Private tutor for Math, Physics, Chemistry & Economics.
 
 ---
 
@@ -121,6 +131,7 @@ I architected a complete on-premise solution to modernize our business operation
 The only variables are effort and cost. I believe the best solutions emerge when traditional values meet an innovative mindset. I've learned that with a computer, I can build anything—and that's what really gets me addicted to coding.
 
 **Let's connect and create something new!** 💡
+
 <!--
 **ke-ma-fi/ke-ma-fi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
