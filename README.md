@@ -12,7 +12,7 @@ I have spent the last few years engineering solutions for our family butcher sho
 
 **So, why look for something new?**
 I love building complex automations (like connecting Chatwoot with n8n and AI agents). However, in a small enterprise, these powerful tools are triggered maybe 3 times a day and I just feel like the projects I thrive on are bigger than what fits our company. I'm at a point where I've automated about 80% of my original office work, and I feel the effort of building additional tools doesn't create that much more impact anymore.
-👉 **I am looking for meaning and a new challenge.** I want to build systems that run 3,000 times a day—or more. I want to apply my skills in an environment where efficiency and good code create massive, measurable impact.
+👉 **I am looking for meaning and a new challenge.** I want to build systems that run 3,000 times a day—or more. I want to apply my skills in an environment where efficiency, iteration, and well-crafted code create measurable impact and delight for users.
 
 ---
 
@@ -65,12 +65,12 @@ My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs w
 
 #### 🤖 My AI - Philosophy
 
-- **Documentation Killer:** I use AI to skip long documentation lookups and syntax checks.
-- **Logic is Human:** For safety and security, I design the logic and control flow myself. I use AI to implement the specific lines, but the "blueprint" remains in my head.
+- **Docs shortcut:** I use AI to skip long documentation lookups and speed up routine tasks.
+- **Logic is human:** For safety and security, I design the logic and control flow myself. I use AI to implement the specific lines, but the "blueprint" remains mine.
 - **The "Gutscheineland" Lesson:** This was my first project driven heavily by **AI Agents**.
-  - _The Win:_ Incredible speed to MVP. (The strongly typed, configuration-heavy nature of Payload + Next.js is awesome for AI, by the way!)
+  - _The Win:_ Incredible speed to MVP. (The strongly typed, configuration-heavy nature of Payload + Next.js is great for AI-assisted workflows.)
   - _The Trade-off:_ AI tends to generate a "salad bowl" of code structures.
-  - _The Job:_ My role shifted from _writing_ code to **Reviewing & Refactoring**. I ensure the project structure doesn't spiral out of control, turning raw AI output into maintainable, clean software.
+  - _The Job:_ I shifted from writing to reviewing and refining. I focus on keeping project structure maintainable and the product delightful.
 
 ---
 
