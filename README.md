@@ -72,7 +72,7 @@ My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs w
 
 ---
 
-## 🏗️ Featured Projects & Engineering
+## 🏗️ Featured Projects ([View Portfolio](https://github.com/ke-ma-fi/portfolio_monorepo))
 
 ### 🎟️ Gutscheineland (Current Fullstack Project) ([View Project](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/projects/gutscheineland))
 
@@ -91,7 +91,7 @@ I architected a complete on-premises solution to modernize our business operatio
 - **Backup Strategy:** Automated backups via Proxmox Backup Server to NAS ➔ Snapshotted via **Kopia** to a remote location (3-2-1 strategy).
 - **The Paperless Office:** Deployed **Paperless-ngx** managing 15,000+ documents.
   - _Custom Python Scripts:_ Developed tools to scan directories for missing invoice numbers, generate ASN barcodes, and export CSVs with formatted POS data specifically for DATEV accounting import. ([View Scripts](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/scripts_and_automation))
-- **Open Source Contribution:** 🌟 I don't just use tools; I improve them. I contributed the **emergency recovery mode** to [Kopia](https://github.com/kopia/kopia) ([View PR](https://github.com/kopia/kopia/pull/5077)) to allow recovery when repository storage is fully exhausted.
+- **Open Source Contribution:** I contributed the **emergency recovery mode** to [Kopia](https://github.com/kopia/kopia) ([View PR](https://github.com/kopia/kopia/pull/5077)) to allow recovery when repository storage is fully exhausted. (WIP)
 
 ### 💬 Omnichannel Communication Hub
 
