@@ -1,8 +1,6 @@
 # Hi there, I'm Kevin - a Tech Enthusiast from Germany with a Business Background! 👋
 
-> **"Preserving tradition, driving technology."**
-
-I am a **Food Management Graduate (B.A.)** who discovered a passion for coding while digitizing a family business. What started as a simple online course during a summer vacation turned into managing a full on-premises environment and developing full-stack applications.
+I am a **business management graduate (B.A.)** who has discovered a passion for coding while digitizing a family business. What started as a simple online course during a summer vacation turned into managing a full on-premises environment and developing full-stack applications.
 
 ---
 
@@ -11,8 +9,8 @@ I am a **Food Management Graduate (B.A.)** who discovered a passion for coding w
 I have spent the last few years engineering solutions for our family butcher shop (~20 employees). I've built everything from **AI-orchestrated support bots** to **automated digital signage** and **paperless office systems**.
 
 **So, why look for something new?**
-I love building complex automations (like connecting Chatwoot with n8n and AI agents). However, in a small enterprise, these powerful tools are triggered maybe 3 times a day and I just feel like the projects I thrive on are bigger than what fits our company. I'm at a point where I've automated about 80% of my original office work, and I feel the effort of building additional tools doesn't create that much more impact anymore.
-👉 **I am looking for meaning and a new challenge.** I want to build systems that run 3,000 times a day—or more. I want to apply my skills in an environment where efficiency, iteration, and well-crafted code create measurable impact and delight for users.
+I love building complex automations. However, in a small enterprise, these powerful tools are triggered maybe 3 times a day and I just feel like the projects I thrive on are bigger than that. I'm at a point where I've automated about 80% of my original office work, and I feel the effort of building additional tools doesn't create that much more impact anymore.
+👉 **I am looking for meaning and a new challenge.** I want to build systems that run thousands of times a day. I want to apply my skills in an environment where efficiency, iteration, and well-crafted code create measurable impact and delight for users.
 
 ---
 
@@ -82,7 +80,7 @@ Building a SaaS-style voucher platform.
 
 - **Tech:** Next.js, PayloadCMS, PostgreSQL, Stripe Payments.
 - **Ops:** Deployed via **Coolify** on Hetzner, using S3 for asset storage.
-- **Workflow:** Full CI/CD implementation via GitHub Actions.
+- **Workflow:** Full CI/CD implementation via GitHub Actions. (WIP)
 
 ### 🥩 The "Wild Ride": Enterprise Self-Hosting
 
@@ -116,11 +114,11 @@ I architected a complete on-premises solution to modernize our business operatio
 > **"I can balance a binary tree, but I prefer building real-world software."**
 
 - **Lecturer:** DHBW Heilbronn (Food Production & Sales) | Member of the Quality Circle for Food Management.
-- **Academic:** B.A. Food Management (ECTS classification: A).
+- **Academic:** B.A. BWL Food Management (ECTS classification: A).
 - **Computer Science:**
   - **CS50x & CS50w:** Completed Harvard's introduction to CS and Web Programming.
   - **FernUniversität in Hagen:** Guest auditor for **Go (Imperative Programming)** and **Java (Algorithms & Data Structures)** to understand the theoretical underpinnings (Binary Trees, Big O, etc.).
-- **Teaching:** Private tutor for Math, Physics, Chemistry & Economics.
+- **Teaching:** Private tutor for Maths, Physics, Chemistry & Economics.
 
 ---
 
