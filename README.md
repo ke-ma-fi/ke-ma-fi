@@ -56,6 +56,7 @@ My toolbox combines modern full-stack development with deep system administratio
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github-copilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
 > **"AI is my co-pilot, not my autopilot."**
 
@@ -74,14 +75,14 @@ My daily driver is **VS Code**, though I frequently utilize **JetBrains** IDEs w
 
 ## 🏗️ Featured Projects ([View Portfolio](https://github.com/ke-ma-fi/portfolio_monorepo))
 
-### 🎟️ Gutscheineland (Current Fullstack Project) ([View Project](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/projects/gutscheineland))
+### 🎟️ Gutscheineland (Current Fullstack Project) · [View Code](https://github.com/ke-ma-fi/portfolio_monorepo/tree/main/projects/gutscheineland) · [Live →](https://gutscheineland.de)
 
 Building a SaaS-style voucher platform.
 
 - **Tech:** Next.js, PayloadCMS, PostgreSQL, Stripe Payments.
 - **Ops:** Deployed via **Coolify** on Hetzner, using S3 for asset storage.
-- **Workflow:** Full CI/CD implementation via GitHub Actions. (WIP)
-
+- **Workflow:** Full CI/CD implementation via GitHub Actions.
+    
 ### 🥩 The "Wild Ride": Enterprise Self-Hosting
 
 I architected a complete on-premises solution to modernize our business operations.
